@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1477431665 source:/home/user/Desktop/NeuralNetworkProject/main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<Neural_Network.h>
+	<Neuron.h>
+	<random>
+
+1477430152 /home/user/Desktop/NeuralNetworkProject/include/Neural_Network.h
+	<vector>
+
+1477431736 /home/user/Desktop/NeuralNetworkProject/include/Neuron.h
+	<vector>
+
+1477430152 source:/home/user/Desktop/NeuralNetworkProject/src/Neural_Network.cpp
+	"Neural_Network.h"
+	<iostream>
+	<cassert>
+	"Neuron.h"
+	<vector>
+	<math.h>
+
+1477420934 source:/home/user/Desktop/NeuralNetworkProject/src/Neuron.cpp
+	"Neuron.h"
+	<iostream>
+	<random>
+	<chrono>
+	<math.h>
+	<cmath>
+	<vector>
+
